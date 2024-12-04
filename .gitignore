@@ -1,0 +1,4 @@
+.idea
+__sdk_output
+dist
+node_modules
